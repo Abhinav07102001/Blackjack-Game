@@ -17,3 +17,15 @@ h1
 {
     font-style: italic;
 }
+
+button
+{
+    color: #016f32;
+    width:120px;
+    background-color: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    border-radius: 3px;
+    border: none;
+}
