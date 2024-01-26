@@ -44,7 +44,7 @@ function renderGame()
     messageEl.textContent=message;
     sumEl.textContent="Sum: "+sum;
     cardEl.textContent="Cards: ";
-    
+
     for(let i=0;i<cards.length;i++)
     {
         cardEl.textContent+=cards[i]+" ";
