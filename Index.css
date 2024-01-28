@@ -20,6 +20,7 @@ h1
 
 button
 {
+    margin-bottom: 5px;
     color: #016f32;
     width:120px;
     background-color: goldenrod;
